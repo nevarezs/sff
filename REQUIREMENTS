@@ -1,0 +1,4 @@
+pdfkit==0.5.0
+phonenumberslite==7.7.5
+terminaltables==3.1.0
+yattag==1.7.2
